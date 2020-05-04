@@ -10,52 +10,52 @@ yalancı olduğumu söyleyecek.
 
 3
 00:01:50,407 --> 00:01:54,945
-Ama tarih, kahramanları
-asanlar tarafından yazılıyor.
+Ama tarih, kahramanları darağacında
+sallandıranlar tarafından yazılır.
 
 4
 00:01:55,913 --> 00:01:59,116
-İskoç Kralı, arkasında bir
-varis bırakmadan ölmüştü.
+İskoç kralı öldüğünde, 
+bir oğlu yoktu,
 
 5
 00:01:59,249 --> 00:02:04,754
-İngiltere Kralı, acımasız ve
-dinsiz Uzunbacaklı Edward...
+ve İngiltere Kralı; Uzunbacaklı Edward 
+olarak tanınan zalim bir pagan,
 
 6
 00:02:04,854 --> 00:02:08,358
-...kendini İskoç
-Kralı ilan etti.
+kendini İskoçya Kralı 
+ilan etti.
 
 7
 00:02:08,559 --> 00:02:14,330
-İskoç soyluları, taht için onunla
-ve birbirleriyle savaştılar.
+İskoç soyluları taht için hem kralla, 
+hem de kendi aralarında savaştılar.
 
 8
-00:02:14,997 --> 00:02:18,102
-Uzunbacaklı, soylulara
-ateşkes görüşmeleri için...
+00:02:14,997 --> 00:02:18,702
+Hal böyleyken Uzun bacaklı Edward,
+soyluları, ateşkes görüşmesi yapmak üzere davet etti.
 
 9
-00:02:18,202 --> 00:02:21,904
-...bir davet çıkardı.
-Silahsız olarak.
+00:02:18,752 --> 00:02:21,904
+Silahsız bir görüşme.
+Sadece belgeler ile.
 
 10
 00:02:26,041 --> 00:02:28,344
-Köyün çiftçilerinden biri,
+Köyün çiftçilerinden birisi 
 Malcolm Wallace'tı.
 
 11
 00:02:28,578 --> 00:02:30,612
-Kendi topraklarına
-sahip bir yerli.
+Kendi toprakları olan, 
+herkes gibi bir köylü.
 
 12
 00:02:30,746 --> 00:02:34,684
-İki oğlu vardı.
+İki oğlu vardı...
 John ve William.
 
 13
@@ -69,23 +69,22 @@ Nereye gidiyoruz?
 
 15
 00:02:47,428 --> 00:02:49,097
-MacAndrews'e. Toplantı
-bittikten sonra bizi...
+MacAndrews'e. 
+Ateşkes görüşmesi bittikten sonra
 
 16
 00:02:49,197 --> 00:02:50,532
-...ziyaret etmesi
-gerekiyordu.
+bize uğraması gerekiyordu.
 
 17
 00:02:50,599 --> 00:02:52,567
 - Ben de gelebilir miyim?
-- Hayır, eve git.
+- Hayır, eve git çocuk.
 
 18
 00:02:52,768 --> 00:02:57,071
-- Ama gelmek istiyorum.
-- Eve gitmezsen dayağı yersin.
+- Ama ben de gelmek istiyorum.
+- Eve git, yoksa dayağı yersin.
 
 19
 00:02:57,238 --> 00:02:59,608
@@ -123,8 +122,8 @@ William.
 
 27
 00:04:54,517 --> 00:04:56,452
-Ve ben karşı saldırıya
-geçelim derim!
+Ben de hemen şimdi karşı saldırıya
+geçelim diyorum!
 
 28
 00:04:56,519 --> 00:04:59,588
@@ -134,64 +133,74 @@ Bu intihar olur!
 29
 00:05:00,256 --> 00:05:03,160
 Wallace haklı!
-Onlarla savaşalım!
+Savaşalım onlarla!
 
 30
 00:05:03,293 --> 00:05:05,294
-Savaşmak isteyen bütün
-onurlu insanlar...
+Savaşmaya hevesli bütün
+soylular o ateşkes toplantısındaydı.
 
 31
 00:05:05,361 --> 00:05:07,364
-- ...o toplantıdaydı.
-- Bir orduyla başa çıkamayız.
+Koca bir orduyla başa çıkamayız.
 
 32
-00:05:07,464 --> 00:05:11,133
-- 50 çiftçiyle olmaz.
-- Onları yenmemiz gerekmiyor.
+00:05:07,464 --> 00:05:9,100
+50 çiftçiyle onları yenemeyiz.
 
 33
-00:05:11,300 --> 00:05:14,270
-- Sadece savaşacağız.
-- Şimdi, kim benimle?
+00:05:9,200 --> 00:05:13,000
+Yenemezsek ne çıkar!
+Yine de savaşalım.
+
+33
+00:05:13,001 --> 00:05:14,670
+Şimdi, hanginiz benimlesiniz?
 
 34
-00:05:14,836 --> 00:05:17,473
-- Seninleyim, Wallace.
-- Tamam, tamam.
+00:05:14,500 --> 00:05:16,600
+Seninleyim Wallace!
+
+34
+00:05:17,200 --> 00:05:18,173
+Öyle olsun bakalım.
 
 35
-00:05:19,175 --> 00:05:20,508
-Hazırlanın.
+00:05:18,675 --> 00:05:20,108
+İşte bu kadar!
 
-36
-00:05:34,889 --> 00:05:36,356
+46
+00:05:34,229 --> 00:05:36,129
 Nereye gittiğini sanıyorsun?
 
-37
-00:05:36,457 --> 00:05:39,394
-- Seninle geliyorum.
-- Demek benimle geliyorsun?
+47
+00:05:36,231 --> 00:05:37,630
+Seninle geliyorum.
 
-38
-00:05:40,061 --> 00:05:42,664
-- Peki ne yapacaksın?
-- Yardım edeceğim.
+48
+00:05:37,732 --> 00:05:39,632
+Demek benimle geliyorsun?
 
-39
-00:05:43,398 --> 00:05:46,134
-Gerçekten iyi bir yardımcı
-olurdun.
+49
+00:05:39,734 --> 00:05:41,334
+Peki ne yapacakmışsın benimle gelip?
+
+50
+00:05:41,437 --> 00:05:43,636
+Yardım edeceğim.
+
+51
+00:05:43,738 --> 00:05:46,138
+Gerçekten de yardımın dokunurdu.
 
 40
 00:05:46,567 --> 00:05:50,038
 Ama burada kalmanı
-ve ben yokken...
+ve ben yokken
 
 41
 00:05:50,138 --> 00:05:52,539
-...buraya göz kulak olmanı
+buraya göz kulak olmanı
 istiyorum.
 
 42
@@ -208,26 +217,28 @@ Savaşabileceğini biliyorum.
 
 45
 00:06:07,188 --> 00:06:10,723
-Ama bizi büyük yapan aklımızdır.
+Ama bizi erkek yapan şey, aklımızdır.
 
 46
 00:06:14,494 --> 00:06:16,662
 Yarın görüşürüz.
 
-47
-00:06:47,393 --> 00:06:49,094
-- İngilizler.
-- Yere yat.
+62
+00:06:46,938 --> 00:06:47,960
+İngilizler!
+
+63
+00:06:47,992 --> 00:06:50,134
+Eğil!
 
 48
 00:06:50,361 --> 00:06:52,531
-Baban ve abin
-burada olmadığı için...
+Babanla kardeşin de gitmişken...
 
 49
 00:06:52,597 --> 00:06:55,100
-...bizi öldürüp,
-köyü yakacaklar.
+Bizi burada gebertip
+çiftliği yakacaklar.
 
 50
 00:06:55,233 --> 00:06:57,736
@@ -253,25 +264,35 @@ Buraya gel delikanlı.
 00:12:57,247 --> 00:12:59,516
 William.
 
+74
+00:11:00,154 --> 00:11:01,951
+Amin.
+
+75
+00:11:02,056 --> 00:11:03,216
+Amin.
+
 56
 00:13:00,417 --> 00:13:04,454
 Ben senin amcanım. Argyle.
 
 57
 00:13:16,133 --> 00:13:19,035
-Annene benziyorsun.
+Bakışların anneninkine benziyor. 
+??
 
 58
 00:13:29,911 --> 00:13:31,747
-Bu gece burada kalacağız.
+Bu gece burada kalıyoruz.
 
 59
 00:13:31,847 --> 00:13:34,049
-Yarın benimle eve geleceksin.
+Yarın beraber benim evime gideceğiz.
+??
 
 60
 00:13:34,115 --> 00:13:36,352
-Buradan gitmek istemiyorum.
+Buradan ayrılmak istemiyorum.
 
 61
 00:13:37,053 --> 00:13:40,422
@@ -284,16 +305,20 @@ Ama öldü.
 
 63
 00:13:45,893 --> 00:13:49,464
-Rahip duasını yaptı mı?
+Duası okundu mu?
+??
 
 64
-00:13:49,597 --> 00:13:51,466
-Tanrı, ruhunu alıp kutsasın?
+00:13:49,597 --> 00:13:50,966
+"Tanrı seni kutsasın ve korusun"?
 
-65
-00:13:51,566 --> 00:13:54,903
-- Latinceydi.
-- Latince bilmiyor musun?
+87
+00:13:50,992 --> 00:13:52,618
+Latinceydi.
+
+88
+00:13:53,028 --> 00:13:55,561
+Latince bilmiyor musun?
 
 66
 00:13:56,538 --> 00:14:00,441
@@ -302,7 +327,7 @@ gereken bir şey, değil mi?
 
 67
 00:14:03,111 --> 00:14:07,281
-Tanrı, ruhunu alıp kutsasın.
+Tanrı seni kutsasın ve korusun.
 
 68
 00:14:07,414 --> 00:14:10,551
@@ -310,7 +335,7 @@ Tanrının ışığı üzerine olsun.
 
 69
 00:14:10,617 --> 00:14:13,921
-Tanrı, günahlarını bağışlasın.
+Tanrı senden yüz çevirmesin.
 
 70
 00:14:14,254 --> 00:14:16,890
@@ -318,132 +343,143 @@ Sana huzur versin.
 
 71
 00:14:24,964 --> 00:14:27,400
-Kalbin özgür.
+Yüreğin özgürdür.
 
 72
 00:14:28,334 --> 00:14:32,405
-Onu izleyecek kadar cesur ol.
+Onu izleyebilecek kadar cesur ol.
 
-73
-00:14:57,964 --> 00:15:02,667
-- Ne yapıyorlar?
-- Kendilerince veda ediyorlar.
+97
+00:14:57,091 --> 00:14:58,991
+Ne yapıyorlar?
+
+98
+00:14:59,093 --> 00:15:02,927
+Geleneklerince ölüye veda ediyorlar.
 
 74
 00:15:03,502 --> 00:15:07,305
-Yasaklanmış çalgılarla,
-yasaklanmış melodilerle.
+Yasaklanmış gaydalarıyla 
+yasaklanmış ezgiler çalarak.
 
 75
 00:15:17,249 --> 00:15:20,183
 Babamız öldürüldüğünde,
-baban ve ben de...
+baban ve ben de
+??
 
 76
 00:15:20,283 --> 00:15:23,621
-...aynı şeyleri hissetmiştik.
+aynı şeyleri hissetmiştik.
 
 77
 00:15:48,778 --> 00:15:54,784
-Önce, bunu kullanmayı öğren.
+Önce... Bunu kullanmayı öğreneceksin.
 
 78
 00:15:54,884 --> 00:16:00,790
-Sonra ben sana bunu da
+Sonra ben de sana, bunu
 kullanmayı öğreteceğim.
 
 79
 00:16:29,884 --> 00:16:34,189
 Yıllar sonra, İngiltere
-Kralı Uzunbacaklı Edward...
+Kralı Uzun Bacaklı Edward
 
 80
 00:16:34,323 --> 00:16:39,560
-...kendisini tahta götürecek
-olan büyük oğlunu evlendirdi.
+kendisini tahta götürecek
+olan en büyük oğlunu evlendirdi.
 
 81
 00:16:48,336 --> 00:16:54,808
-Ve oğluna gelin olarak, rakibi olan
-Fransa Kralının kızını seçti.
+Ve oğluna gelin olarak, en büyük rakibi olan
+Fransa Kralının kızını seçti. 
+
+
+
+
 
 82
-00:17:19,065 --> 00:17:21,334
-Yaygın bir söylentiye göre...
+00:17:19,065 --> 00:17:21,034
+Yaygın bir söylentiye göre,
 
 83
-00:17:21,401 --> 00:17:24,370
-...prensesin gebe kalma
-işini, Uzunbacaklı'nın...
+00:17:21,111 --> 00:17:26,470
+Prensesi hamile bırakma onurunu
+Uzunbacaklı üstlenecekti.
 
 84
-00:17:24,470 --> 00:17:29,041
-...kendisi halletmesi gerekiyordu.
-Muhtemelen onun düşüncesi de...
-
-85
-00:17:29,141 --> 00:17:31,011
-...bu yöndeydi.
+00:17:26,500 --> 00:17:31,041
+Belki de başından beri,
+bunu yapmayı planlıyordu.
 
 86
 00:17:33,978 --> 00:17:39,250
-İskoçya.
-Benim topraklarım.
+İskoç toprakları...
+BENİM topraklarım...
 
 87
 00:17:40,418 --> 00:17:45,524
-Fransızlar güçlü olanın
-ayaklarına kapanır;
+Fransızlar güçlü olan her kimse,
+onun ayaklarına kapanır.
 
 88
 00:17:45,825 --> 00:17:49,227
-ama kendi adamızın tamamını
-bile kontrol edemezken...
+Ama biz daha kendi adamızı
+kontrol edemezken,
 
 89
 00:17:49,327 --> 00:17:52,097
-...bizim güçlü olduğumuza
-nasıl inanırlar ki?
+onlar nasıl bizim güçlü olduğumuza inansınlar?
 
-90
-00:18:02,007 --> 00:18:05,109
-- Oğlum nerede?
-- Bağışlayın, lordum.
+121
+00:18:01,509 --> 00:18:02,874
+Oğlum nerede?
+
+122
+00:18:02,977 --> 00:18:04,410
+Bağışlayın, lordum.
 
 91
 00:18:05,209 --> 00:18:07,846
-Benden onun yerine
-vekalet etmemi istedi.
+Kendisi yerine
+vekâlet etmemi istedi.
 
 92
 00:18:08,013 --> 00:18:10,848
-Ben onu istedim
+Ben onu çağırttım
 ve o seni gönderdi.
 
+125
+00:18:10,951 --> 00:18:13,546
+İsterseniz gideyim, lordum?
+
 93
-00:18:10,948 --> 00:18:16,520
-- Gideyim mi, lordum?
-- Eğer ben öldükten sonra...
+00:18:13,848 --> 00:18:16,920
+Eğer ben öldüğüm vakit, toprakları 
+kraliçenin yönetmesini istiyorsa,
 
 94
-00:18:16,620 --> 00:18:19,790
-...kraliçesinin
-hükmetmesini istiyorsa...
+00:18:17,000 --> 00:18:22,000
+izle ve nasıl yapılacağını öğren. 
+Şöyle buyur.
 
-95
-00:18:19,890 --> 00:18:23,227
-...kal ve nasıl
-olduğunu öğren. Lütfen.
+129
+00:18:25,833 --> 00:18:27,425
+Soylular...
 
-96
-00:18:26,630 --> 00:18:32,301
-Soylular. Soylular
-İskoçya'nın anahtarı.
+130
+00:18:27,535 --> 00:18:31,733
+Soylular İskoçya'nın kapılarını
+bize açacak olan anahtarlar.
+
 
 97
 00:18:32,502 --> 00:18:35,238
 Bizim soylularımızın
 kuzeydeki topraklarının...
+
 
 98
 00:18:35,338 --> 00:18:37,407
