@@ -468,7 +468,7 @@ Soylular...
 130
 00:18:27,535 --> 00:18:31,733
 Soylular, İskoçya'nın kapılarını
-açacak olan anahtarlar.
+bize açacak olan anahtarlar.
 
 97
 00:18:32,502 --> 00:18:35,238
@@ -524,15 +524,16 @@ uygulamanın vakti geldi.
 
 107
 00:19:27,254 --> 00:19:31,292
-Soylulara "Prima Nocte" hakkı vermek.
+Soylulara "prima nocte" vermek.
 
 108
 00:19:32,660 --> 00:19:38,297
-Yani İlk Gece Hakkı. Soylularımız, yönettikleri topraklarda yaşayan kızlar evlendiğinde,
+İlk Gece Hakkı. Soylularımız, yönettikleri topraklarda yaşayan kızlar evlendiğinde,
 
 109
 00:19:38,307 --> 00:19:40,767
-onlarla ilk geceyi geçirme
+evlenen her kızla,
+ilk geceyi geçirme
 
 110
 00:19:40,934 --> 00:19:42,271
@@ -540,100 +541,99 @@ hakkına sahip olacak.
 
 111
 00:19:46,139 --> 00:19:51,711
-Madem onları topraklarından defedemiyoruz,
-biz de soylarını kuruturuz.
+Eğer onları topraklarından atamıyorsak
+kendi soyumuzu arttırırız.
 
 112
 00:19:52,278 --> 00:19:55,282
-Böylece tam da İskoçya'da
-olmasını istediğimiz lordları yaratmış oluruz.
+Bu, tam da İskoçya için
+istediğimiz lordları...
 
 113
 00:19:55,383 --> 00:19:58,551
-İster vergiyle, ister vergisiz.
+...satın almamızı sağlar;
+vergi alsak da almasak da.
 
-151
-00:19:58,592 --> 00:20:00,492
-Muhteşem bir fikir efendim.
-
-152
-00:20:00,994 --> 00:20:02,693
-Öyle mi?
+114
+00:19:59,052 --> 00:20:02,756
+- Mükemmel bir fikir, efendim.
+- Öyle mi?
 
 115
 00:20:07,593 --> 00:20:12,297
-Böylece Edinburgh'da 
-İskoç soyluları konseyi toplandı.
+Edinburgh'da İskoç soylularının
+konseyi toplandı.
 
 116
 00:20:12,498 --> 00:20:16,136
-Bunlardan birisi,  İskoçya tahtı için 
-en güçlü aday olan 
+Bunların arasında İskoç
+tahtına en yakın soylu...
 
 117
 00:20:16,236 --> 00:20:20,173
-17. Bruce Kontu olan 
-Robert'ti.
+...olan Bruce kontu,
+Robert da vardı.
 
 118
 00:20:26,345 --> 00:20:29,647
-Duyduğuma göre Uzunbacaklı soylulara 
-"Prima Nocte" hakkı vermiş.
+Duyduğuma göre Uzunbacaklı
+soylulara haklar tanımış.
 
-157
-00:20:29,723 --> 00:20:33,957
-Açıkça görülüyor ki, buradaki taraftarlarını 
-artırmak istiyor.
+119
+00:20:30,482 --> 00:20:32,584
+Açıkça buradaki
+taraftarlarını arttırmak...
+
+120
+00:20:32,685 --> 00:20:34,352
+...için alınmış bir karar.
 
 121
 00:20:34,686 --> 00:20:37,923
-Babam, bu karara
-tarafsız kalarak
+Babam bu karara
+tarafsız kalarak...
 
 122
 00:20:37,990 --> 00:20:41,460
-Uzunbacaklı'nın güvenini
-kazanabileceğimizi düşünüyor.
+...Uzunbacaklı'nın güvenini
+kazanabileceğimize inanıyor.
 
 123
-00:20:41,527 --> 00:20:42,5
-Oldukça iyi bir fikir.
+00:20:41,527 --> 00:20:44,094
+Bilgece bir düşünce.
+Bu arada baban nasıl?
 
-162
-00:20:42,636 --> 00:20:46,037
-Baban nasıl bu arada?
-Konseyde göremedik onu.
+124
+00:20:44,194 --> 00:20:46,764
+- Konseyde göremedik.
+- Fransa'daki işleri onu...
 
-163
-00:20:46,140 --> 00:20:48,904
-Fransadaki işleri onu baya meşgul ediyor.
+125
+00:20:46,931 --> 00:20:48,833
+...oldukça meşgul ediyor;
 
-
-164
-00:20:52,646 --> 00:20:54,546
-Ama selamlarını
+126
+00:20:53,438 --> 00:20:55,540
+...ama selamlarını
 gönderdi.
 
-165
-00:20:54,648 --> 00:20:58,880
+127
+00:20:55,640 --> 00:20:58,276
 Ve benim tüm Bruceları
-temsil ettiğimi söyledi,
+temsil ettiğimi söyledi...
 
-166
-00:20:58,986 --> 00:21:00,317
-ve İskoçyayı.
+128
+00:20:58,843 --> 00:21:01,311
+...ve İskoçya'yı da.
 
-167
-00:23:09,583 --> 00:23:11,983
-İşte yine başlıyoruz.
+129
+00:23:10,370 --> 00:23:12,005
+İşte başlıyoruz.
 
-168
-00:23:12,086 --> 00:23:14,054
-Kayanı düşürdün.
-
-169
-00:23:14,154 --> 00:23:15,519
-Erkeklik testi bu.
+130
+00:23:13,105 --> 00:23:16,875
+- Kayanı düşürdün.
+- Erkeklik testi.
 
 131
 00:23:18,175 --> 00:23:19,343
@@ -641,16 +641,18 @@ Sen kazandın.
 
 132
 00:23:21,580 --> 00:23:23,881
-Savaşçılık testi diyelim
-madem.
+Savaşçılık testi diyelim,
+o zaman.
 
 133
 00:23:24,081 --> 00:23:26,118
-İngilizler silahlarla eğitim yapmamızı istemiyor.
+İngilizler silahlarla talim
+yapmamıza izin vermezler.
 
 134
 00:23:26,218 --> 00:23:27,853
-Biz de taşlarla yapıyoruz.
+Onun için biz de taşlarla
+yapıyoruz.
 
 135
 00:23:27,919 --> 00:23:30,355
