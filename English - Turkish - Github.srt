@@ -15,8 +15,8 @@ sallandıranlar yazar.
 
 4
 00:01:56,077 --> 00:01:59,274
-The king of Scotland
-had died without a son,
+İskoçya kralı öldüğünde,  
+bir oğlu yoktu,
 
 5
 00:01:59,414 --> 00:02:01,382
