@@ -1,47 +1,46 @@
 ﻿1
 00:01:43,031 --> 00:01:46,933
-Size William
-Wallace'ı anlatacağım.
+I shall tell you
+of William Wallace.
 
 2
 00:01:47,035 --> 00:01:50,436
-İngiliz tarihçiler benim bir
-yalancı olduğumu söyleyecek.
+Historians from England
+will say I am a liar,
 
 3
 00:01:50,539 --> 00:01:54,600
-Çünkü tarihi, kahramanları darağacında
-sallandıranlar yazar.
+but history is written by those
+who have hanged heroes.
 
 4
-00:01:55,913 --> 00:01:59,116
-İskoçya kralı öldüğünde, 
-bir oğlu yoktu,
+00:01:56,077 --> 00:01:59,274
+The king of Scotland
+had died without a son,
 
 5
-00:01:59,249 --> 00:02:04,754
-ve İngiltere Kralı; Uzunbacaklı Edward 
-olarak tanınan zalim bir pagan,
+00:01:59,414 --> 00:02:01,382
+and the king of England,
 
 6
-00:02:04,854 --> 00:02:08,358
-kendini İskoçya Kralı 
-ilan etti.
+00:02:01,516 --> 00:02:04,917
+a cruel pagan known
+as Edward the Longshanks,
 
 7
-00:02:08,559 --> 00:02:14,330
-İskoçya soyluları taht için hem kralla, 
-hem de kendi aralarında savaştılar.
+00:02:05,020 --> 00:02:08,080
+claimed the throne of Scotland
+for himself.
 
 8
-00:02:14,997 --> 00:02:18,702
-Hal böyleyken Uzun bacaklı Edward, iskoç soylulara, 
-ateşkes toplantısı yapmak üzere onlara bir davet yolladı.
+00:02:08,223 --> 00:02:11,090
+Scotland's nobles
+fought him
 
 9
-00:02:18,752 --> 00:02:21,904
-Silahsız bir toplantı olacaktı.
-Sadece belgeler imzalanarak.
+00:02:11,193 --> 00:02:14,128
+and fought each other
+over the crown.
 
 10
 00:02:14,229 --> 00:02:18,131
